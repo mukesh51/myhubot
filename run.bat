@@ -1,0 +1,1 @@
+d:\myhubot\bin\hubot -a shell

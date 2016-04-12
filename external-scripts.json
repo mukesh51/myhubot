@@ -7,5 +7,7 @@
   "hubot-pugme",
   "hubot-maps",
   "hubot-rules",
-  "hubot-shipit"
+  "hubot-shipit",
+  "hubot-passwdme",
+  "hubot-schedule"
 ]
