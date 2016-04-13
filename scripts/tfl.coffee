@@ -35,4 +35,5 @@ module.exports = (robot) ->
 			arr2 = "#{arr}"
 			console.log "\n"			
 			console.log arr2.split(",").join("\n")
+			console.log "\n"
 			
