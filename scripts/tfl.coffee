@@ -34,6 +34,5 @@ module.exports = (robot) ->
 						arr.push friendly_name + status
 			arr2 = "#{arr}"
 			console.log "\n"			
-			console.log arr2.split(",").join("\n")
-			console.log "\n"
+			console.log arr2.split(",").join("\n")			
 			
